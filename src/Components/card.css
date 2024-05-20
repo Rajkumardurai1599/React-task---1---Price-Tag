@@ -1,0 +1,32 @@
+body {
+  background: rgb(36, 152, 230) !important;
+}
+.head {
+  text-align: center;
+}
+.card {
+  margin-top: 20%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.card-footer {
+  border-top: none;
+  background: none;
+  text-align: center;
+}
+.btn {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  width: 100%;
+  border-radius: 24px;
+  background-color: #4ba2ff;
+}
+.btn:hover {
+  color: white;
+  background-color: #007aff;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
