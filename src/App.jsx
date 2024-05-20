@@ -26,7 +26,7 @@ const App = () => {
     {
       id: 2,
       title: "FREE",
-      price: "$0/month",
+      price: "$99/month",
       user: "single-user",
       storage: "50GB storage",
       project: "Unlimited Public Project",
@@ -43,7 +43,7 @@ const App = () => {
     {
       id: 3,
       title: "FREE",
-      price: "$0/month",
+      price: "$49/month",
       user: "single-user",
       storage: "50GB storage",
       project: "Unlimited Public Project",
